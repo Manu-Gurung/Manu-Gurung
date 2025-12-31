@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Manu Gurung 👋
 
-<!--
-**Manu-Gurung/Manu-Gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-Founder at Techsions**  
+**Full-Stack Web Developer**
 
-Here are some ideas to get you started:
+I build clean, fast, and scalable websites and web applications with a focus on performance, usability, and modern design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Styling: Tailwind CSS
+- Backend: Node.js, REST APIs
+- Database: MongoDB
+- Tools: Git, GitHub, Postman, Cloudflare
+
+---
+
+## 🚀 Projects
+- **E-commerce Website**  
+  Full-featured online store with modern UI and scalable backend.
+
+- **Portfolio Website**  
+  Personal portfolio built for performance, SEO, and responsiveness.
+
+- **Business Website**  
+  Professional website designed to represent brand identity and convert visitors.
+
+---
+
+## 📫 Contact
+- 🌐 Company: https://techsions.com || https://techsions.us 
+- 💼 LinkedIn: https://www.linkedin.com/in/manu-gurung-716a6a36/
+- 📧 Email: manu.gurung@techsions.us
