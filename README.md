@@ -29,6 +29,7 @@ I build clean, fast, and scalable websites and web applications with a focus on 
 ---
 
 ## 📫 Contact
+- 🌐 Personal: https://www.manugurung.com.np/
 - 🌐 Company: https://techsions.com || https://techsions.us 
 - 💼 LinkedIn: https://www.linkedin.com/in/manu-gurung-716a6a36/
-- 📧 Email: manu.gurung@techsions.us
+- 📧 Email: manu.gurung@techsions.us / contact@manugurung.com.np
