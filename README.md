@@ -8,11 +8,11 @@ I build clean, fast, and scalable websites and web applications with a focus on 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: HTML, CSS, JavaScript, React, Next.js
-- Styling: Tailwind CSS
-- Backend: Node.js, REST APIs
-- Database: MongoDB
-- Tools: Git, GitHub, Postman, Cloudflare
+- Frontend: HTML, CSS, JavaScript, React, Vite, Next.js
+- Styling: Tailwind CSS, Bootstrap CSS, Shadcn Ui/components
+- Backend: Node.js, Express.js, REST APIs, Nest.js
+- Database: MongoDB, mysql, prisma
+- Tools: Git, GitHub, Postman, Cloudflare, Cloudinary, n8n
 
 ---
 
